@@ -1,5 +1,7 @@
 # 60_wrapBinarySearch
 
+Helper: Darius
+
 # Recursive Binary Search
 0. Given a sorted integer array of length n, find the index of a value in O(logn) time.
 1. When I am asked to return the index of a value in an array of length n, the recursive abstraction can return the index of a value in an array of length n/2.
